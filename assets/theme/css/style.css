@@ -160,7 +160,7 @@ section .mbr-background-video-preview {
 }
 
 .hidden {
-  visibility: hidden;
+  visibility: visible;
 }
 
 .mbr-z-index20 {
