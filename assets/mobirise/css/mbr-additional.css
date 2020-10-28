@@ -1046,10 +1046,10 @@ section.lazy-placeholder:after {
 .cid-serHJrgHIn .mbr-text,
 .cid-serHJrgHIn .mbr-section-btn {
   color: #ffffff;
-  text-align: left;
+  text-align: center;
 }
 .cid-serI7Yf8JJ {
-  padding-top: 90px;
+  padding-top: 10px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
@@ -2018,7 +2018,7 @@ section.lazy-placeholder:after {
   height: 7px;
   margin: 3px;
   background: #1b1b1b;
-  opacity: 0.5;
+  opacity: 0;
   border: 4px solid #1b1b1b;
 }
 .cid-sevEJIiXZK .carousel-indicators .active {
@@ -2768,7 +2768,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-serHENKKtC .navbar {
-  background: #ffffff;
+  background: #ff9900;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
